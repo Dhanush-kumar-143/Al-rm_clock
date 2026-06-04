@@ -20,7 +20,6 @@ A simple command-line alarm clock in Python. Set multiple alarms, view or delete
 | File | Description |
 |------|-------------|
 | `Alarm_clock.py` | Main program: `AlarmClock` class and menu-driven `main()` |
-| `demo_alarm.py` | Small demo that prints the current `datetime` |
 
 ## How to run
 
